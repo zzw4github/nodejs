@@ -1,5 +1,6 @@
 # nodejs
-[nodejs](https://nodejs.org/en/ "nodejs")  [nodejs manual](https://nodejs.org/dist/latest-v4.x/docs/api/synopsis.html "manual")
+[nodejs](https://nodejs.org/en/ "nodejs")  
+[nodejs manual](https://nodejs.org/dist/latest-v4.x/docs/api/synopsis.html "manual")
 
 ###更新命令
 - npm update –g 在windows下不能更新成功 
