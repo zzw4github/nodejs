@@ -10,8 +10,7 @@
 2. [nvm-windows](https://github.com/coreybutler/nvm-windows "nvm-windows")
 
 ###查看版本  
-- node -v
-- 
+* node -v
 
 ###Hello World
 ```
