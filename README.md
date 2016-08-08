@@ -8,9 +8,8 @@
 
 1. [nvm](https://github.com/creationix/nvm "bash")
 2. [nvm-windows](https://github.com/coreybutler/nvm-windows "nvm-windows")
-3. 
 
-###查看版本
+###查看版本  
 - node -v
 - 
 
