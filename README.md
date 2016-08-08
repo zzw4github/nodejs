@@ -32,5 +32,13 @@
   });
   ```
   
+  To run the server, put the code into a file called example.js and execute it with Node.js:
+
+<!--
+$ node example.js
+Server running at http://127.0.0.1:3000/
+-->
+All of the examples in the documentation can be run similarly.
+  
   
   
